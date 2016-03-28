@@ -6,7 +6,10 @@ Run *splat.py* to play
 
 ##Controls
 
-Up/Down - Press or hold to change canvas rotation speed / direction
-Space - Save image
-F - toggle fullscreen
-ESC - exit
+**Up/Down**  Press or hold to change canvas rotation speed / direction
+
+**Space**  Save image
+
+**F**  toggle fullscreen
+
+**ESC**  exit
